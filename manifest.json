@@ -1,11 +1,12 @@
 {
   "name": "Vignesh Kumar - GitHub Profile",
   "short_name": "Simple Progressive Web App(PWA) Example",
-  "theme_color": "#2196f3",
-  "background_color": "#2196f3",
+  "theme_color": "#0f4a73",
+  "background_color": "#000000",
   "display": "standalone",
   "Scope": "/",
   "start_url": "./index.html",
+  "prefer_related_applications": true,
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
