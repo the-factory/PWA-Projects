@@ -1,12 +1,11 @@
 {
-  "name": "Vignesh Kumar - GitHub Profile",
-  "short_name": "Vigneshuvi",
-  "theme_color": "#0f4a73",
-  "background_color": "#000000",
+  "name": "Vignesh Kumar - Owners Manual - PWA",
+  "short_name": "Guides",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
   "display": "standalone",
   "Scope": "/",
-  "start_url": "./index.html",
-  "prefer_related_applications": true,
+  "start_url": "/pages/VIGNEKU/PWA-Owners-Manual/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
