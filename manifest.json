@@ -5,7 +5,7 @@
   "background_color": "#2196f3",
   "display": "standalone",
   "Scope": "/",
-  "start_url": "/pages/VIGNEKU/PWA-Owners-Manual/",
+  "start_url": "/PWA-Projects/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
